@@ -11,6 +11,6 @@ module.exports = {
     "auth_info_baileys",
   MONGODB:
     process.env.MONGODB ||
-    "mongodb://mongo:QfpiXGuAfauZGAIcOVcclWHAyvoqZPFX@junction.proxy.rlwy.net:32111",
+    "mongodb://mongo:BqDTFgNBOEZDGpEdelYMgdgSaOuAQwyD@:",
   OWNER_NUM: process.env.OWNER_NUM || "94704101989",
 };
